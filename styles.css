@@ -13,6 +13,9 @@
 
     /* Makes the parallax image a little bit transparent */
     opacity: 0.85;
+
+    
+
   }
 
   .margin
@@ -20,5 +23,18 @@
     margin-bottom:50px;
     margin-top:50px;
 
+  }
+
+  .card
+  {
+    text-align: center;
+
+
+  }
+
+
+  #about_me
+  {
+    color: white;
 
   }
