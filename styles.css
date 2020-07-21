@@ -4,12 +4,11 @@
   
     /* Set a specific height */
     height: 500px;
-    width: 1080;
+    width: 100%;
   
     /* Create the parallax scrolling effect */
     background-attachment: fixed;
-    background-position: center;
-    background-repeat: no-repeat;
+   
     background-size: cover;
 
     /* Makes the parallax image a little bit transparent */
@@ -19,10 +18,20 @@
 
   }
 
+  .row
+  {
+      width: 100%;
+  }
+  
 
   .footer
   {
       background-color: #c5e4db;
+  }
+
+  .caner
+  {
+      vertical-align: middle;
   }
 
   .margin
@@ -94,3 +103,11 @@
 
 
   }
+
+  .vertical-center {
+    
+  
+    display: flex;
+    align-items: center;
+  }
+
