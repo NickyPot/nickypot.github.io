@@ -18,6 +18,26 @@
 
   }
 
+  .parallax2 {
+    /* The image used */
+    background-image: url("paral2.jpg");
+  
+    /* Set a specific height */
+    height: 500px;
+    width: 100%;
+  
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+   
+    background-size: cover;
+
+    /* Makes the parallax image a little bit transparent */
+    opacity: 0.85;
+
+    
+
+  }
+
   .row
   {
       width: 100%;
