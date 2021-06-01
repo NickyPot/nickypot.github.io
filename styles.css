@@ -121,7 +121,8 @@
   .honours
   {
     width: 100%;
-    max-width: 400px;
+    max-width: 180;
+    max-height: 320;
     height: auto;
 
   }
